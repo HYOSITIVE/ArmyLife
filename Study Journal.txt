@@ -1,0 +1,19 @@
+2020.04.14
+
+1. 생활코딩 유튜브 - Github.com 강의
+
+ - Github에서 repository(프로젝트) 생성
+ - Code에서 commits(버전) 관리
+ - GIT 프로그램 시연 영상 시청 (GIT서버 - 내부 저장소 동기화)
+ - repository에 멤버 추가
+ - Issues : 게시판으로, 다양한 카테고리별로 분류하여 글 작성 가능. 소통의 창구로 기능
+ - Wiki : 프로젝트에 관련된 지식들을 체계적으로 관리
+ - Insights : 프로젝트에 관한 정보를 확인할 수 있음
+ - Fork 버튼을 통해 자기 repository로 복제 가능
+ - Pull requests : Fork를 통해 복제해 자기가 작업한 코드를 사용해달라고 요청
+ - Actions : GIT 세팅 가능 (ex. push 시 코드 테스트, 문제가 없다면 서버에 자동으로 반영하는 기능 등)
+
+ * GIT에 관한 추가 학습 원할 시 이고잉의 학습지도 사이트 'seomal.org'에 접속해 GIT1, GIT2-CLI Version Control 공부하기
+
+
+2020.04.15
