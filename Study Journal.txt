@@ -1,25 +1,36 @@
 2020.04.14
 
-1. ��Ȱ�ڵ� ��Ʃ�� - Github.com ����
- - Github���� repository(������Ʈ) ����
- - Code���� commits(����) ����
- - GIT ���α׷� �ÿ� ���� ��û (GIT���� - ���� ����� ����ȭ)
- - repository�� ��� �߰�
- - Issues : �Խ�������, �پ��� ī�װ������� �з��Ͽ� �� �ۼ� ����. ������ â���� ���
- - Wiki : ������Ʈ�� ���õ� ���ĵ��� ü�������� ����
- - Insights : ������Ʈ�� ���� ������ Ȯ���� �� ����
- - Fork ��ư�� ���� �ڱ� repository�� ���� ����
- - Pull requests : Fork�� ���� ������ �ڱⰡ �۾��� �ڵ带 ����ش޶�� ��û
- - Actions : GIT ���� ���� (ex. push �� �ڵ� �׽�Ʈ, ������ ���ٸ� ������ �ڵ����� �ݿ��ϴ� ��� ��)
+1. 생활코딩 유튜브 - Github.com 강의
+ - Github에서 repository(프로젝트) 생성
+ - Code에서 commits(버전) 관리
+ - GIT 프로그램 시연 영상 시청 (GIT서버 - 내부 저장소 동기화)
+ - repository에 멤버 추가
+ - Issues : 게시판으로, 다양한 카테고리별로 분류하여 글 작성 가능. 소통의 창구로 기능
+ - Wiki : 프로젝트에 관련된 지식들을 체계적으로 관리
+ - Insights : 프로젝트에 관한 정보를 확인할 수 있음
+ - Fork 버튼을 통해 자기 repository로 복제 가능
+ - Pull requests : Fork를 통해 복제해 자기가 작업한 코드를 사용해달라고 요청
+ - Actions : GIT 세팅 가능 (ex. push 시 코드 테스트, 문제가 없다면 서버에 자동으로 반영하는 기능 등)
 
- * GIT�� ���� �߰� �н� ���� �� �̰����� �н����� ����Ʈ 'seomal.org'�� ������ GIT1, GIT2-CLI Version Control �����ϱ�
+ * GIT에 관한 추가 학습 원할 시 이고잉의 학습지도 사이트 'seomal.org'에 접속해 GIT1, GIT2-CLI Version Control 공부하기
 
 
 2020.04.15
 
-1. �¶��� �� �����Ϸ�
- - IDEONE �����Ϸ��� ������ ������. �ּ� : https://ideone.com
+1. 온라인 웹 컴파일러
+ - IDEONE 컴파일러가 가볍고 간단함. 주소 : https://ideone.com
 
-2. K-MOOC - ����ִ� �۷ι� ���� ����
- - PART1. �۷ι� �������� ��ȭ ���� ��û �� ����
- : ������ ����, ���� �ڿ��� �̵��� ���� Ȱ�������� �۷ι� ������ ��ȭ�ϰ� �ִ�.
+2. K-MOOC - 재미있는 글로벌 경제 기행
+ - 1주차 '글로벌 경제 Warm Up' PART1. 글로벌 경제로의 진화 강의 시청 및 퀴즈
+ : 국가간 물적, 인적 자원의 이동이 더욱 활발해지며 글로벌 경제로 진화하고 있다.
+ 
+ 
+2020.04.17
+ 
+1. K-MOOC - 재미있는 글로벌 경제 기행
+ - 1주차 Part2, Part3 강의 시청 및 퀴즈
+ - 2주차 '글로벌 경제의 개념과 특징' Part1. 글로벌 경제로의 이행
+  : 글로벌 경제 : 개별 국가의 경제가 구성인자. 상호보완적, 의존적 관계를 지닌 통합적 경제
+  : 글로벌 경제의 특징 : 보완성, 의존성, 통합성 
+  
+ 2. K-MOOC - 경제학 들어가기 수강신
