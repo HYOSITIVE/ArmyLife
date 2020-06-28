@@ -323,3 +323,13 @@
 2. MOOC 정보 조사
  Coursera와 edX
  Coursera Blockchain Basics 강의 등록
+ 
+ 
+ 2020.06.28
+ 
+  1. 생활코딩 WEB1 - HTML & Internet
+   1-5. HTML코딩과 실습환경 준비
+   1-6. 기본문법 태그
+   1-7. 혁명적인 변화
+   1-8. 통계에 기반한 학습
+   1-9. 줄바꿈 : br vs p
