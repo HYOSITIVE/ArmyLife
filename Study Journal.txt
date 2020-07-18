@@ -471,9 +471,21 @@
   15. 수업을 마치며
   
   
-  2020.07.14
+2020.07.14
   
-   1. 생활코딩 WEB2 - Domain Name System
-    1. 수업소개
-    2. IP주소와 hosts (1/2)
-    3. IP주소와 hosts (2/2)
+ 1. 생활코딩 WEB2 - Domain Name System
+  1. 수업소개
+  2. IP주소와 hosts (1/2)
+  3. IP주소와 hosts (2/2)
+
+
+2020.07.18
+
+ 1. 생활코딩 WEB2 - Domain Name System
+  4. 도메인 이름과 보안
+  5. DNS의 태동
+  6. DNS의 원리
+  7. public DNS의 사용
+  8. 도메인 이름의 구조
+  9. 도메인 이름 등록 과정과 원리
+  10. nslookup
