@@ -489,3 +489,19 @@
   8. 도메인 이름의 구조
   9. 도메인 이름 등록 과정과 원리
   10. nslookup
+
+
+2020.07.19
+
+ 1. 생활코딩 WEB2 - Domain Name System
+  11. 나의 도메인 이름 장만하기
+  12. DNS record & CNAME
+  13. Github pages에 도메인 연결하기
+  14. 수업을 마치며
+  
+ 2. 생활코딩 WEB2 - HTTP
+  1. 수업 소개
+  2. 소개
+  3. Request message
+  4. Response message
+  5. 수업을 마치며
