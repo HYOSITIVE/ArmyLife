@@ -500,8 +500,19 @@
   14. 수업을 마치며
   
  2. 생활코딩 WEB2 - HTTP
-  1. 수업 소개
+  1. 수업소개
   2. 소개
   3. Request message
   4. Response message
   5. 수업을 마치며
+
+
+2020.07.20
+
+ 1. 생활코딩 WEB2 - Node.js
+  1. 수업소개
+  2. 수업의 목적
+  3. 설치
+  3.1 설치 (Windows)
+  4. 공부방법
+  5. Node.js로 웹서버 만들기
