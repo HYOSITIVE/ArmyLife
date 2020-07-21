@@ -516,3 +516,17 @@
   3.1 설치 (Windows)
   4. 공부방법
   5. Node.js로 웹서버 만들기
+
+
+2020.07.21
+ 
+ 1. 생활코딩 WEB2 - Node.js
+  * 구름 IDE로 Node.js 활용법 습득에 시간 소요
+  5. Node.js로 웹서버 만들기 복습 및 실습
+  6.1. JavaScript 문법 - Number Data type
+  6.2. JavaScript 문법 - String
+  7.1. JavaScript 문법 - 변수의 형식
+  7.2. JavaScript 문법 - 변수의 활용
+  8. JavaScript 문법 - Templage Literal
+  9. URL의 이해
+  10. URL을 통해서 입력된 값 사용하기
