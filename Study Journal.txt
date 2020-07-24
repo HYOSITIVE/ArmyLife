@@ -530,3 +530,18 @@
   8. JavaScript 문법 - Templage Literal
   9. URL의 이해
   10. URL을 통해서 입력된 값 사용하기
+
+
+2020.07.24
+
+ 1. 생활코딩 WEB2 - Node.js
+  이전 강의 복습
+  11. App 제작 - 동적인 웹페이지 만들기
+  12. Node.js의 파일 읽기 기능
+  13. App 제작 - 파일을 이용해 본문 구현
+  14. JavaScript - Boolean
+  15. JavaScript - 비교연산자
+  16. JavaScript - 제어문
+  17. JavaScript - 조건문
+  18. NodeJS - 콘솔에서의 입력값
+  19. App 제작 - Not found 구현
