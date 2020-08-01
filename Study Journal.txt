@@ -586,3 +586,18 @@
   2. GPL과 리눅스의 탄생
   3. 다양한 개방형OS
   4. 개방형OS의 이해
+
+
+2020.08.01
+
+ 1. OSAM - Git/Github 입문
+  1. 강의소개 및 간단한 Git 소개
+  2. Git/Github 준비 및 설정
+  3. 초기화 및 commit 작업
+  4. Git/Github Push 및 Commit 수정
+  5. Pull-Requests 및 merge
+  6. Rebase 및 Blame 실습
+  7. Why Git?
+  8. Github과 오픈소스
+  9. Git/Github 우리 프로젝트에 적용하기
+  10. FAQ와 오픈소스 commit 읽어보기
