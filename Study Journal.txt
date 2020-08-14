@@ -658,4 +658,17 @@
  2. OSAM - 블록체인
   1. 비트코인
   2. 이더리움
-  3. 생
+  3. 생태계
+  
+  
+2020.08.14
+ 
+ 1. OSAM - 블록체인
+  4. 산업 동향
+  
+ 2. OSAM - 엣지컴퓨팅
+  1. Cloud Edge
+  2. Digital Twin
+  3. 5G
+  4. Edge vs Cloud(1)
+  5. Edge vs Cloud(2)
