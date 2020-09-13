@@ -809,8 +809,21 @@
    3. 뒤르켐의 제의
 
 
+2020.09.12
+
+ 1. 생활코딩 - WEB2 - Node.js
+  ~ 19.1 복습
+  
+  
 2020.09.13
 
  1. 생활코딩 - WEB2 - Node.js
-  ~ 19.1 복습 완료
-  19.2 재수강 
+  19.2. App 제작 - 홈페이지 구현 복습
+  20. JavaScript - 반복문
+  21. JavaScript - 배열
+  22. JavaScript - 배열과 반복문
+  23. Node.js에서 파일목록 알아내기
+  24. App 제작 - 글목록 출력하기
+  25.1. JavaScript - 함수의 기본 문법
+  25.2. JavaScript - 함수의 입력
+  25.3. JavaScript - 함수의 출력
