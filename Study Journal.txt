@@ -1351,3 +1351,10 @@
 
  1. 2020 IUPC 복습
   문제 G 해결
+
+
+2021.01.13
+
+ 1. Git 사용 준비
+  OSAM Git 강의 교안 복습
+  Visual Studio Code와 Git 연동 진행, Goorm IDE 파일 
