@@ -1357,4 +1357,14 @@
 
  1. Git 사용 준비
   OSAM Git 강의 교안 복습
-  Visual Studio Code와 Git 연동 진행, Goorm IDE 파일 
+  Visual Studio Code와 Git 연동 진행, Goorm IDE 파일 Github로 이전
+
+
+2021.01.15
+
+ 1. 생활코딩 - WEB2 - Node.js : 이전 학습 내용 복습
+  10. URL을 통해서 입력된 값 사용하기
+  11. App 제작-동적인 웹페이지 만들기
+  12. Node.js의 파일 읽기 기능
+  13. App 제작 - 파일을 이용해 본문 구현
+  17. JavaScript - 조건문
