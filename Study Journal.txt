@@ -1439,3 +1439,16 @@
 2021.01.27
 
  1. Opentutorials 기반 웹 프로그래밍 학습 계획 작성
+
+
+2021.01.29
+
+ 1. Opentutorials - DATABASE 1
+  1. 수업소개
+  2. 데이터베이스의 본질
+  3. file vs database
+  4. 수업을 마치며
+  
+ 2. Opentutorials - DATABASE2 - MySQL
+  1. 수업소개
+  2. 데이터베이스의 목적
