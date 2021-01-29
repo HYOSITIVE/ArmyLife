@@ -1,8 +1,8 @@
-Last Modification : 2021.01.27 by HYOSITIVE
+Last Modification : 2021.01.29 by HYOSITIVE
 
 opentutorials egoing님 강의 기반 웹 프로그래밍 학습 로드맵
-1. DATABASE1
-2. DATABASE2 - MySQL
+1. DATABASE1 : 2021.01.29 FINISHED
+2. DATABASE2 - MySQL : 2021.01.29 ~
 3. Node.js - MySQL
 4. WEB3 - Express
 5. WEB3 - Node.js - 쿠키와 인증 (Node.js Cookie & Auth)
