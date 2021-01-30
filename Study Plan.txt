@@ -1,21 +1,31 @@
-Last Modification : 2021.01.29 by HYOSITIVE
+Last Modification : 2021.01.30 by HYOSITIVE
 
-opentutorials egoing님 강의 기반 웹 프로그래밍 학습 로드맵
-1. DATABASE1 : 2021.01.29 FINISHED
-2. DATABASE2 - MySQL : 2021.01.29 ~
-3. Node.js - MySQL
-4. WEB3 - Express
-5. WEB3 - Node.js - 쿠키와 인증 (Node.js Cookie & Auth)
-6. WEB4 - Express - 세션과 인증 (Express Session & Auth)
-7. WEB5 - Passport.js
-8. DATABASE2 - lowdb
-9. WEB6 - 다중 사용자 (Multi User Auth)
-10. WEB2 - OAuth 2.0
-11. WEB7 - Google Login
-12. WEB7 - Facebook Login
+1. WEB PROGRAMMING (opentutorials egoing님 강의 기반)
 
-기타
-WEB2 - Python
-WEB3 - Ajax (WEB2 - JavaScript에서 연결)
-React
-AWS1, AWS Educate
+ 1) 완료
+  1. WEB1 - HTML : FINISHED
+  2. WEB2 - JavaScript : FINISHED
+  3. WEB2 - CSS : FINISHED
+  4. WEB2 - Domain Name System : FINISHED
+  5. WEB2 - HTTP : FINISHED
+  6. WEB2 - Node.js : FINISHED
+  7. DATABASE1 : 2021.01.29 FINISHED
+  
+ 2) 진행 중 / 학습 예정
+  1. DATABASE2 - MySQL : 2021.01.29 ~ 
+  2. Node.js - MySQL
+  3. WEB3 - Express
+  4. WEB3 - Node.js - 쿠키와 인증 (Node.js Cookie & Auth)
+  5. WEB4 - Express - 세션과 인증 (Express Session & Auth)
+  6. WEB5 - Passport.js
+  7. DATABASE2 - lowdb
+  8. WEB6 - 다중 사용자 (Multi User Auth)
+  9. WEB2 - OAuth 2.0
+  10. WEB7 - Google Login
+  11. WEB7 - Facebook Login
+  
+ 3) 기타
+  1. WEB2 - Python
+  2. WEB3 - Ajax (WEB2 - JavaScript에서 연결)
+  3. React
+  4. AWS1, AWS Educate
