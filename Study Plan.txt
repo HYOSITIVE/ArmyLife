@@ -1,15 +1,15 @@
-Last Modification : 2021.01.30 by HYOSITIVE
+Last Modification : 2021.01.31 by HYOSITIVE
 
 1. WEB PROGRAMMING (opentutorials egoing님 강의 기반)
 
  1) 완료
-  1. WEB1 - HTML : FINISHED
-  2. WEB2 - JavaScript : FINISHED
-  3. WEB2 - CSS : FINISHED
-  4. WEB2 - Domain Name System : FINISHED
-  5. WEB2 - HTTP : FINISHED
-  6. WEB2 - Node.js : FINISHED
-  7. DATABASE1 : 2021.01.29 FINISHED
+  1. WEB1 - HTML
+  2. WEB2 - JavaScript
+  3. WEB2 - CSS
+  4. WEB2 - Domain Name System
+  5. WEB2 - HTTP
+  6. WEB2 - Node.js
+  7. DATABASE1
   
  2) 진행 중 / 학습 예정
   1. DATABASE2 - MySQL : 2021.01.29 ~ 
