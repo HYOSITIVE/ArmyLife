@@ -1452,3 +1452,11 @@
  2. Opentutorials - DATABASE2 - MySQL
   1. 수업소개
   2. 데이터베이스의 목적
+
+
+2021.01.31
+
+ 1. Opentutorials - DATABASE2 - MySQL
+  3.0. MySQL 설치
+  3.1. MySQL 설치 (Windows)
+  4. MySQL의 구조
