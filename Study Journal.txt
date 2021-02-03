@@ -1460,3 +1460,14 @@
   3.0. MySQL 설치
   3.1. MySQL 설치 (Windows)
   4. MySQL의 구조
+
+
+2021.02.03
+
+ 1. Opentutorials - DATABASE2 - MySQL
+  5. 서버접속
+  6. 스키마의 사용
+  7. SQL과 테이블의 구조
+  8.1. 테이블의 생성
+  8.2. 테이블의 생성
+  9. CRUD
