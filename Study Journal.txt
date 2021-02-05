@@ -1471,3 +1471,10 @@
   8.1. 테이블의 생성
   8.2. 테이블의 생성
   9. CRUD
+
+
+2021.02.05
+
+ 1. Opentutorials - DATABASE2 - MySQL
+  10. INSERT
+  11. SELECT
