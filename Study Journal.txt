@@ -1478,3 +1478,14 @@
  1. Opentutorials - DATABASE2 - MySQL
   10. INSERT
   11. SELECT
+
+
+2021.02.06
+
+ 1. Opentutorials - DATABASE2 - MySQL
+  12. UPDATE
+  13. DELETE
+  14. 수업의 정상
+  15. 관계형 데이터베이스의 필요성
+  16. 테이블 분리하기
+  17. JOIN
