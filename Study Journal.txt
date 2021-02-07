@@ -1489,3 +1489,15 @@
   15. 관계형 데이터베이스의 필요성
   16. 테이블 분리하기
   17. JOIN
+
+
+2021.02.07
+
+ 1. Opentutorials - DATABASE2 - MySQL
+  18. 인터넷과 데이터베이스
+  19. MySQL Client
+  20. MySQL Workbench
+  21. 수업을 마치며
+  
+ 2. Opentutorials - Node.js & MySQL
+  1. 수업소개
