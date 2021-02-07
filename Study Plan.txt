@@ -10,19 +10,19 @@ Last Modification : 2021.01.31 by HYOSITIVE
   5. WEB2 - HTTP
   6. WEB2 - Node.js
   7. DATABASE1
+  8. DATABASE2 - MySQL
   
  2) 진행 중 / 학습 예정
-  1. DATABASE2 - MySQL : 2021.01.29 ~ 
-  2. Node.js - MySQL
-  3. WEB3 - Express
-  4. WEB3 - Node.js - 쿠키와 인증 (Node.js Cookie & Auth)
-  5. WEB4 - Express - 세션과 인증 (Express Session & Auth)
-  6. WEB5 - Passport.js
-  7. DATABASE2 - lowdb
-  8. WEB6 - 다중 사용자 (Multi User Auth)
-  9. WEB2 - OAuth 2.0
-  10. WEB7 - Google Login
-  11. WEB7 - Facebook Login
+  1. Node.js & MySQL : 2021.02.07 ~
+  2. WEB3 - Express
+  3. WEB3 - Node.js - 쿠키와 인증 (Node.js Cookie & Auth)
+  4. WEB4 - Express - 세션과 인증 (Express Session & Auth)
+  5. WEB5 - Passport.js
+  6. DATABASE2 - lowdb
+  7. WEB6 - 다중 사용자 (Multi User Auth)
+  8. WEB2 - OAuth 2.0
+  9. WEB7 - Google Login
+  10. WEB7 - Facebook Login
   
  3) 기타
   1. WEB2 - Python
