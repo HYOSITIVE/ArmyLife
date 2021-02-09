@@ -1509,3 +1509,9 @@
   2. 실습준비
   3.1. MySQL 모듈의 기본사용법
   4.1. MySQL로 홈페이지 구현 1
+
+
+2021.02.09
+ 
+ 1. Opentutorials - Node.js & MySQL
+  * WAMP 스택 재설치, Github 저장소 분리, 환경 세팅
