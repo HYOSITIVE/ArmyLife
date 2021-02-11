@@ -1515,3 +1515,13 @@
  
  1. Opentutorials - Node.js & MySQL
   * WAMP 스택 재설치, Github 저장소 분리, 환경 세팅
+
+
+2021.02.11
+ 
+ 1. Opentutorials - Node.js & MySQL
+  * 4.1까지 실습 내용 복구
+  4.2. MySQL로 홈페이지 구현 2
+  5. MySQL로 상세보기 구현
+  6. MySQL로 글생성 기능 구현 (~ 2:07)
+  
