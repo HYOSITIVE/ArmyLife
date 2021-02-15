@@ -1532,3 +1532,13 @@
   6. MySQL로 글생성 기능 구현 (2:07 ~)
   7.1. MySQL로 글수정 기능 구현 1
   7.2. MySQL로 글수정 기능 구현 2
+
+
+2021.02.15
+
+ 1. Opentutorials - Node.js & MySQL
+  8. MySQL로 글삭제 기능 구현
+  9. MySQL JOIN - 글 상세보기 구현
+  10. MySQL JOIN - 글 생성 구현
+  11. MySQL JOIN - 글 수정 구현
+  12. 수업의 정상
