@@ -1600,3 +1600,11 @@
   9.1. 미들웨어의 사용 - body parser
   9.2. 미들웨어의 사용 - compression
   10. 미들웨어 만들기
+
+
+2021.04.12
+
+ 1. Node.js, Express 이론, 원리 공부
+ 
+ 2. Opentutorials - WEB3 - Express
+  이전 학습 내용 복습 (~ 9.1)
