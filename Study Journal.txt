@@ -1640,3 +1640,16 @@
  1. Opentutorials - WEB3 - Node.js - Cookie & Auth
   2. 실습준비
   3. 쿠키의 생성
+
+
+2021.04.25
+
+ 1. Opentutorials - WEB3 - Node.js - Cookie & Auth
+  4. 쿠키의 읽기
+  5. 쿠키의 활용
+  6. Session vs Permanent
+  7. Secure & HttpOnly
+  8. path & domain
+  9.1. 인증구현 - 소개
+  9.2. 인증구현 - UI 만들기
+  9.3. 인증구현 - 로그인 쿠키 생성
