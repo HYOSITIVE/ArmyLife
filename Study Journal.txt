@@ -1660,3 +1660,12 @@
  1. Opentutorials - WEB3 - Node.js - Cookie & Auth
   지난 내용 복습
   9.4. 인증구현 - 로그인 상태 체크
+
+
+2021.05.24
+
+ 1. Opentutorials - WEB3 - Node.js - Cookie & Auth
+  9.5. 인증구현 - 로그인 상태를 UI에 반영
+  9.6. 인증구현 - 로그아웃
+  9.7. 인증구현 - 접근제어
+  10. 수업을 마치며
