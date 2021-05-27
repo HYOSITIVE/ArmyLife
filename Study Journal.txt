@@ -1669,3 +1669,17 @@
   9.6. 인증구현 - 로그아웃
   9.7. 인증구현 - 접근제어
   10. 수업을 마치며
+
+ 2. Opentutorials - WEB4 - Express - Session & Auth
+  1. 수업소개
+
+
+2021.05.27
+
+ 1. Opentutorials - WEB4 - Express - Session & Auth
+  2. 예제 구동
+  3. 옵션
+  4. session 객체
+  5. session store
+  6.1. 인증구현 - UI 만들기
+  6.2. 인증구현 - 로그인 세션구현
