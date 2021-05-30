@@ -1683,3 +1683,9 @@
   5. session store
   6.1. 인증구현 - UI 만들기
   6.2. 인증구현 - 로그인 세션구현
+
+
+2021.05.30
+ 1. Opentutorials - WEB4 - Express - Session & Auth
+  6.3. 인증구현 - 세션 미들웨어 설치
+  6.4. 인증구현 - 인증상태를 UI에 반영
