@@ -1689,3 +1689,12 @@
  1. Opentutorials - WEB4 - Express - Session & Auth
   6.3. 인증구현 - 세션 미들웨어 설치
   6.4. 인증구현 - 인증상태를 UI에 반영
+
+
+2021.06.02
+ 1. Opentutorials - WEB4 - Express - Session & Auth
+  6.5. 인증구현 - 로그인상태를 UI에 반영 2
+  6.6. 인증구현 - 로그아웃
+  6.7. 인증구현 - 접근제어
+  6.8. 인증구현 - 세션저장
+  7. 수업을 마치며
