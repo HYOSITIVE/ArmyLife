@@ -1686,15 +1686,29 @@
 
 
 2021.05.30
+
  1. Opentutorials - WEB4 - Express - Session & Auth
   6.3. 인증구현 - 세션 미들웨어 설치
   6.4. 인증구현 - 인증상태를 UI에 반영
 
 
 2021.06.02
+
  1. Opentutorials - WEB4 - Express - Session & Auth
   6.5. 인증구현 - 로그인상태를 UI에 반영 2
   6.6. 인증구현 - 로그아웃
   6.7. 인증구현 - 접근제어
   6.8. 인증구현 - 세션저장
   7. 수업을 마치며
+
+
+2021.06.05
+
+ 1. Opentutorials - WEB5 - Passport.js
+  1. 수업 소개
+  2. passport 설치
+  3. passport 인증구현
+  4.1. passport 자격확인 1
+  4.2. passport 자격확인 2
+  5.1. passport 세션이용 1
+  5.2. passport 세션이용 2
