@@ -1712,3 +1712,15 @@
   4.2. passport 자격확인 2
   5.1. passport 세션이용 1
   5.2. passport 세션이용 2
+
+
+2021.06.08
+
+ 1. Opentutorials - WEB5 - Passport.js
+  5.3. passport 세션이용 3
+  6. passport 로그인 확인
+  7. 로그아웃
+  8. flash message
+  9. passport에 flash message 적용
+  10. 리팩토링
+  11. 수업을 마치며
