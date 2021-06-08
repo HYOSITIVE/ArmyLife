@@ -15,14 +15,14 @@ Last Modification : 2021.06.02
   10. WEB3 - Express
   11. WEB3 - Node.js - 쿠키와 인증 (Node.js Cookie & Auth)
   12. WEB4 - Express - 세션과 인증 (Express Session & Auth)
+  13. WEB5 - Passport.js
   
  2) 진행 중 / 학습 예정
-  1. WEB5 - Passport.js
-  2. DATABASE2 - lowdb
-  3. WEB6 - 다중 사용자 (Multi User Auth)
-  4. WEB2 - OAuth 2.0
-  5. WEB7 - Google Login
-  6. WEB7 - Facebook Login
+  1. DATABASE2 - lowdb
+  2. WEB6 - 다중 사용자 (Multi User Auth)
+  3. WEB2 - OAuth 2.0
+  4. WEB7 - Google Login
+  5. WEB7 - Facebook Login
   
  3) 기타
   1. WEB2 - Python
